@@ -1,0 +1,17 @@
+
+# Virtual environment
+test_env/
+venv/
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+*$py.class
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
